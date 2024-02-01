@@ -1,3 +1,3 @@
 #Project Aeon
 bsc reflection crypto token,
-<a href="yjalessio.github.io/aeon">Whitepaper</a>
+<a href="https://yjalessio.github.io/aeon">Whitepaper</a>
