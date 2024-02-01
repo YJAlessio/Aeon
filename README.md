@@ -1,2 +1,3 @@
-# personal-project-dUSD
-myp5 personal project
+#Project Aeon
+bsc reflection crypto token,
+<a href="yjalessio.github.io/aeon">Whitepaper</a>
